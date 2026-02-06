@@ -1,6 +1,7 @@
 baris 1
 baris 2
 baris 3
+baris 4 dari latihan2
 baris 5
 baris 6
 baris 7
